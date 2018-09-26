@@ -2,5 +2,5 @@
 
   return[
     'id' => 'school',
-    'basePatch' => realpath(__DIR__.'/../')
+    'basePath' => realpath(__DIR__ . '/../')
   ];
